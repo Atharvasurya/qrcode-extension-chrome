@@ -1,0 +1,12 @@
+{
+  "manifest_version":2,
+  "name": "QR Code Generator",
+  "description": "A Google Chrome extension that generates a QR code for the link pasted by the user.",
+  "version": "1.0",
+  "icons": {
+    "48": "icon.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  }
+}
